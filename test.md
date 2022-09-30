@@ -1,6 +1,7 @@
 ```mermaid
-a --> b
-a --> c
-b --> d
-c --> d
+graph TD
+    a --> b
+    a --> c
+    b --> d
+    c --> d
 ```
