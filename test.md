@@ -5,6 +5,6 @@ graph TD
     b --> d
     c --> d
 
-    click a "./test2.md" "test 2 description"
+    click a "test2.md" "test 2 description"
 
 ```
