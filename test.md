@@ -5,6 +5,6 @@ graph TD
     b --> d
     c --> d
 
-    click a "test2.md" "test 2 description"
+    click a "https://github.com/pngouembe/composed_project_1/blob/master/test2.md" "test 2 description"
 
 ```
